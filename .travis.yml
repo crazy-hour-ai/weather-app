@@ -13,7 +13,7 @@ before_script:
   - npm install -g @angular/cli
 
 script:
-  - ng build --prod --base-href https://kenken64.github.io/weather-app/
+  - ng build --prod --base-href https://crazy-hour-ai.github.io/weather-app/
 
 deploy:
   provider: pages
